@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/working/work_project/LuckyPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_d756305ec83973b7df511d9aefc25800020bc828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/working/work_project/LuckyPan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_d2c5fef443bf903fbda5e794574eb51d619b55f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/working/work_project/LuckyPan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_560a2cfd9550b3e3c6b4a79eb7f0d5dd437f5474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/working/work_project/LuckyPan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_bb06eba11490799224430d1f25e8a1668ddf287e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/working/adt/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_6d5ad288e4d398031de3bf0bc88edbb6f53e7227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/working/work_project/LuckyPan/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/working/work_project/LuckyPan/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_7916bebf4af94565274288b23c1b69703c4e99f5.jar" />
+    </item>
+
+</items>
